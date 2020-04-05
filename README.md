@@ -24,7 +24,6 @@ This dataset is made up of 1797 8x8 images. Each image, like the one shown below
 
 
 
-
 ### EMNIST
 - Get EMNIST data :
 ```
